@@ -1,0 +1,3 @@
+externalId: {{ uc_oee_ds_external_id }}
+name: OEE Data Set
+description: Data Set for the OEE calculations
